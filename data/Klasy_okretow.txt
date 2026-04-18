@@ -1,0 +1,10 @@
+Iowa;pancernik;USA
+Yamato;pancernik;Japonia
+Revenge;pancernik;Wielka Brytania
+Fletcher;niszczyciel;USA
+Kongo;krazownik liniowy;Japonia
+Bismarck;pancernik;Niemcy
+Hipper;krazownik ciezki;Niemcy
+Dido;krazownik lekki;Wielka Brytania
+Mogami;krazownik ciezki;Japonia
+Clemson;niszczyciel;USA
